@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagesAssignment</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save as</string>
+    <string name="copy" >Copy</string>
+    <string name="copy_image_link" >Copy Image Link</string>
+    <string name="download" >Download</string>
+</resources>
